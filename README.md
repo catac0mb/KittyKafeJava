@@ -3,7 +3,7 @@ Welcome to Kitty Kafe! In this game you are Mittens, the hard working cafe owner
 
 ## How to Run the Program:
 
-Place all filed into a folder titled "src". This will be your working directory. Then set your working directory in the terminal to the src folder. Then run this line:
+Place all files into a folder titled "src". This will be your working directory. Then set your working directory in the terminal to the src folder. Then run this line:
 `javac *.java`
 and then run this line:
 `java Main`
