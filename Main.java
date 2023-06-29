@@ -1,8 +1,3 @@
-/***********
- * Commandline is having issues finding the file path for images in the src folder
- * Program runs fine from IDE
- * Currently working on issue
- *************/
 import javax.swing.*; //jpanel
 import java.awt.*; //graphics
 import java.awt.event.KeyListener; //see if keys are pressed
